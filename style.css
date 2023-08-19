@@ -1,0 +1,15 @@
+.icon{
+    display: inline-block;
+    stroke-width: 1;
+    stroke: rgba(0, 255, 42, 0.233);
+    fill: rgb(75, 150, 52);
+}
+
+.icon-icon {
+    width: 200px;
+    height: 200px;
+}
+
+.svg:hover{
+    fill: rgb(52, 150, 134);
+}
