@@ -1,68 +1,35 @@
-/*header*/
 body{
-    background-color: rgb(177, 177, 255);
+    background-color: rgb(140, 0, 255);
 }
-
-.fotki{
-    display: flex;
-    justify-content: space-around;
-}
-/*header-end*/
-/*div-opasity*/
-.div-opasity{
+/*header*/
+.hed{
     position: relative;
 }
-/*div-opasity-end*/
-/*div-hadpis*/
-.nadpis1{
+
+.kubik1{
     position: absolute;
-    top: -50px;
-    left: 126px;
-    width: 369px;
-    height: 50px;
-    background-color: black;
-    opacity: 60%;
+    top: 200px;
+    left: 500px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 107, 107);
 }
 
-.nadpis2{
+.kubik3{
     position: absolute;
-    top: -50px;
-    left: 748px;
-    width: 369px;
-    height: 50px;
-    background-color: black;
-    opacity: 60%;
+    top: 450px;
+    left: 735px;
+    width: 200px;
+    height: 200px;
+    background-color: rgba(81, 247, 117, 0.849);
 }
 
-.nadpis3{
+.kubik2{
     position: absolute;
-    top: -50px;
-    left: 1368px;
-    width: 369px;
-    height: 50px;
-    background-color: black;
-    opacity: 60%;
+    top: 325px;
+    left: 620px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(107, 107, 255);
 }
-/*div-hadpis-end*/
-/*hadpis*/
-.text1{
-    margin-top: 13px;
-    margin-left: 110px;
-    color: white;
-    text-decoration: none;
-}
-
-.text2{
-    margin-top: 13px;
-    margin-left: 118px;
-    color: white;
-    text-decoration: none;
-}
-
-.text3{
-    margin-top: 13px;
-    margin-left: 110px;
-    color: white;
-    text-decoration: none;
-}
-/*hadpis-end*/
+/*header-end*/
